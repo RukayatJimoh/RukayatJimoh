@@ -1,6 +1,6 @@
-# Hi I am Rukayat, a Data Engineer
+# Hi I am Rukayat, a Data Professional
 
-Welcome to my Github profile page! I am a versatile Data Engineer with a passion for building scalable, efficient and robust pipeline for both batch and real-time data processing. I also possess strong skill in building and maintaining modern data infrastructure in the cloud, ensuring that data is readily available for various downstream needs.
+Welcome to my Github profile page! I am a versatile data professional, majorly into data analytics but I have experience data engineering and i  ám have  passion for building scalable infrastructure, efficient and robust pipeline for both batch and real-time data processing. I also possess strong skill in building and maintaining modern data infrastructure in the cloud, ensuring that data is readily available for various downstream needs.
 
 ## My Expertise
 
